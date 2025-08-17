@@ -1,0 +1,10 @@
+Wave Capabilities:
+Pulseaudio Ch:2
+Supports:VOL PAN POS 
+11.025 kHz 8M 16M 8S 16S 
+22.050 kHz 8M 16M 8S 16S 
+44.100 kHz 8M 16M 8S 16S 
+
+Actual used system: moosware mixer
+PrimBufferSize: 176400 bytes
+SecondaryBuffers:	24
